@@ -3,7 +3,7 @@ html{
   scroll-behavior: smooth;
 }
 .content{
-    background: url(../assets/backgrounds/h_img.jpg);
+    background: url(../images/background/h_img.jpg);
     height: 100vh;
     background-size: cover;
     display: flex;
@@ -46,7 +46,7 @@ html{
 
 /*Below are styling for services section*/
 .serv-cont{
-    background-image: url(../assets/backgrounds/s_image.jpg);
+    background-image: url(../images/background/s_image.jpg);
     height: 50vh;
     
 }
@@ -101,7 +101,7 @@ tr th{
 
 /*Below is the css for the Conctact section*/
 .contact-section{
-    background:url(../assets/backgrounds/c_image.jpg);
+    background:url(../images/background/c_image.jpg);
   background-size: cover;
     padding: 40px 0;
 
