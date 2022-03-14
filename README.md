@@ -2,6 +2,14 @@
 ## Author
 Maureen Kamau
 
+## Description
+
+This project is a web application for Delani studio that shows details about the services it offers, has information about the studio, a portfolio section and a form that enables users to send their messages and concern to Delani studios. 
+
+## Screenshot
+<img src="https://raw.githubusercontent.com/Owiti-Charles/Delani-Studio/master/images/delanihome.png" width="900px" height="440px">
+
+
 **Design**
 
 Our design practice offers a full range of services including brand strategy, interaction and visual design and user experience testing.
@@ -27,10 +35,14 @@ Here is a run through of how to set up the application
 
 ## Known Bugs
 * Formula provided to determine day of birth shows inconsistency in its results (Bug fixed)
+
 ## Technologies Used
-* HTML  
-* CSS
-* Javascript
+
+* [HTML5](https://github.com/topics/html5)
+* [CSS](https://github.com/topics/css3)
+* [Bootstrap](https://github.com/topics/bootstrap)
+* [jQuery](https://github.com/topics/javascript)
+* markdown
 
 ## Support and contact details
 You can provide feedback or raise any issues/ bugs through the following means:
